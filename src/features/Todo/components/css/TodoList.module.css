@@ -1,0 +1,10 @@
+.list-item > li {
+  cursor: pointer;
+}
+
+.list-item > li.completed {
+  color: #ccc;
+  text-decoration: line-through;
+  font-style: italic;
+}
+/*# sourceMappingURL=TodoList.module.css.map */
